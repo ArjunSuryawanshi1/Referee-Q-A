@@ -1,0 +1,19 @@
+{
+  "name": "Referee Q&A",
+  "short_name": "Ref Q&A",
+  "description": "Interactive IFAB 2026/27 soccer center referee Q&A training quiz.",
+  "start_url": "/Referee-Q-A/",
+  "scope": "/Referee-Q-A/",
+  "display": "standalone",
+  "background_color": "#f3f6f1",
+  "theme_color": "#1f4f2a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/Referee-Q-A/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
